@@ -1,6 +1,6 @@
 {
   "name": "universal-eol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get the EOL char in both nodejs and browser environment",
   "main": "eol.umd.js",
   "scripts": {
