@@ -14,11 +14,12 @@
     "endofline"
   ],
   "author": "p2227 <kuangqiyi@gmail.com>",
-  "url":"https://github.com/p2227/universal-eol",
+  "url": "https://github.com/p2227/universal-eol",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.16.0",
     "babel-core": "^6.17.0",
+    "babel-plugin-transform-es2015-block-scoping": "^6.15.0",
     "babel-plugin-transform-es2015-destructuring": "^6.16.0",
     "babel-plugin-transform-es2015-modules-umd": "^6.12.0"
   }
