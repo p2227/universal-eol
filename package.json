@@ -1,6 +1,6 @@
 {
   "name": "universal-eol",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "get the EOL char in both nodejs and browser environment",
   "main": "eol.umd.js",
   "scripts": {
@@ -14,7 +14,14 @@
     "endofline"
   ],
   "author": "p2227 <kuangqiyi@gmail.com>",
-  "url": "https://github.com/p2227/universal-eol",
+  "homepage": "https://github.com/p2227/universal-eol",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p2227/universal-eol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/p2227/universal-eol/issues"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.16.0",
